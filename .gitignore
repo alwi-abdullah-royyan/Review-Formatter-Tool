@@ -1,0 +1,6 @@
+token.txt
+compiled_review.txt
+compiled_review_bbcode.txt
+__pycache__/
+*.pyc
+.DS_Store
